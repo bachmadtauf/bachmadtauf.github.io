@@ -2184,10 +2184,8 @@ a:hover.back-to-top {
 	}
 	/* end of extra pages */
 	.otoleap {
-		frameborder='0' ;
-		width='100%';
-		height='200%' ;
-		scrolling='no';
+		width=100%;
+		height=200%;
 	}
 	
 }
